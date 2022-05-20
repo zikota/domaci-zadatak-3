@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  padding: 6% 5% 0% 5%;
+}
+
+.AppContainer {
+  padding: 1% 15% 0% 15%;
+}
+
+.dodajBtn {
+  float: right
+}
+
+.logo {
+  float: left;
+  width: 80px;
+  height: 80px;
+}
+
+.imgContainer {
+  height: 500px
+}
